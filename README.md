@@ -1,4 +1,4 @@
-# 🧠 GenAI para Triagem e Análise de Sinistros em Seguradoras
+# GenAI para Triagem e Análise de Sinistros em Seguradoras
 
 ## Descrição do Projeto
 
